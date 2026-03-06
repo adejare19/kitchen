@@ -21,7 +21,7 @@ export default function HeroSection() {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('/images/hero.jpg')",
+            "url('/images/jollof-rice.png')",
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-br from-[#1A1A1A]/85 via-[#9E3E10]/45 to-[#1A1A1A]/70"></div>
