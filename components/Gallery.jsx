@@ -1,13 +1,13 @@
 export default function Gallery() {
   const images = [
     {
-      src: "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&q=80&auto=format",
+      src: "/images/yam-sauce.jpg",
       alt: "Beautifully plated African dish at Àṣà Kitchen",
       // Large feature image — 2 cols + 2 rows on desktop, full width on mobile
       className: "col-span-2 row-span-2 h-56 sm:h-72 md:h-full",
     },
     {
-      src: "https://images.unsplash.com/photo-1567364816519-cbc9c4ffe1eb?w=600&q=80&auto=format",
+      src: "/images/egusi-pounded-yam.png",
       alt: "Colourful West African spices and ingredients",
       className: "col-span-1 h-40 sm:h-48 md:h-full",
     },
