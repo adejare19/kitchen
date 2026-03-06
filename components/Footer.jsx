@@ -168,7 +168,7 @@ export default function Footer() {
             |{" "}
             <a href="#" className="text-[#D4A843] hover:underline">Terms of Service</a>
           </p>
-          <p>Made with ❤️ in London · Afro-British Cuisine</p>
+          <p>DexterLabs</p>
         </div>
       </div>
     </footer>
