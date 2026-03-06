@@ -14,7 +14,7 @@ export default function AboutSection() {
           {/* Image — capped height on mobile, taller on desktop */}
           <div className="relative">
             <img
-              src="/image/yam-sauce.jpg"
+              src="/images/yam-sauce.jpg"
               alt="Chef plating a beautiful African dish at Àṣà Kitchen"
               className="w-full h-64 sm:h-80 lg:h-[520px] object-cover rounded-2xl"
               loading="lazy"
