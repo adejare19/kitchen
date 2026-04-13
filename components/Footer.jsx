@@ -135,13 +135,13 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3 text-sm">
               <li>
-                <a href="tel:+447000000000" className="hover:text-white transition-colors">
-                  +44 7000 000 000
+                <a href="tel:+441158413283" className="hover:text-white transition-colors">
+                 +44 115 841 3283
                 </a>
               </li>
               <li>
                 <a href="mailto:hello@asakitchen.co.uk" className="hover:text-white transition-colors">
-                  hello@asakitchen.co.uk
+                  hello@theMarinaafricanrestaurant.co.uk
                 </a>
               </li>
               <li>
