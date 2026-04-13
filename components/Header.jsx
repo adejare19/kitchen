@@ -32,7 +32,7 @@ export default function Header() {
         {/* Brand */}
         <a href="#home" className="flex flex-col">
           <span className="font-playfair text-2xl font-bold text-[#1A1A1A] leading-none tracking-tight">
-            Àṣà Kitchen
+            The Marina African Restaurant
           </span>
           <span className="text-[10px] font-medium text-[#C45C26] uppercase tracking-[0.2em] mt-0.5">
             Authentic African Cuisine · London
