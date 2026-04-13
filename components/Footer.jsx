@@ -163,7 +163,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-3 mt-6 text-xs">
           <p>
-            © 2025 The Marina African Restaurant Ltd. All rights reserved. |{" "}
+            © 2026 The Marina African Restaurant Ltd. All rights reserved. |{" "}
             <a href="#" className="text-[#D4A843] hover:underline">Privacy Policy</a>{" "}
             |{" "}
             <a href="#" className="text-[#D4A843] hover:underline">Terms of Service</a>
