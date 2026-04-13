@@ -14,10 +14,10 @@ export default function WhatsAppButton() {
       )}
 
       <a
-        href="https://wa.me/447000000000?text=Hi%20Àṣà%20Kitchen!%20I'd%20like%20to%20know%20more."
+        href="https://wa.me/+441158413283?text=Hi%20Àṣà%20Kitchen!%20I'd%20like%20to%20know%20more."
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Chat with Àṣà Kitchen on WhatsApp"
+        aria-label="Chat with The Marina African Restaurant on WhatsApp"
         className="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-[#25D366] text-white flex items-center justify-center shadow-lg shadow-[#25D366]/40 hover:scale-110 active:scale-95 transition-transform"
         // Toggle bubble on tap (touch) — onMouseEnter handles desktop hover
         onClick={(e) => {
