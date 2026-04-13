@@ -20,19 +20,19 @@ function WhatsAppIcon({ size = 18 }) {
 const socialLinks = [
   {
     href: "https://instagram.com/asakitchen",
-    label: "Àṣà Kitchen on Instagram",
+    label: "The Marina African Restaurant on Instagram",
     icon: <Instagram size={18} />,
     className: "bg-white/10 hover:bg-[#C45C26]",
   },
   {
     href: "https://facebook.com/asakitchen",
-    label: "Àṣà Kitchen on Facebook",
+    label: "The Marina African Restaurant on Facebook",
     icon: <Facebook size={18} />,
     className: "bg-white/10 hover:bg-[#C45C26]",
   },
   {
     href: "https://tiktok.com/@asakitchen",
-    label: "Àṣà Kitchen on TikTok",
+    label: "The Marina African Restaurant on TikTok",
     icon: <TikTokIcon size={18} />,
     className: "bg-white/10 hover:bg-[#C45C26]",
   },
@@ -71,7 +71,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h2 className="font-playfair text-2xl font-bold text-white mb-1">
-              Àṣà Kitchen
+              The Marina African Restaurant
             </h2>
             <p className="text-[10px] tracking-[0.2em] uppercase text-[#D4A843] mb-4">
               Authentic African Cuisine · London
@@ -163,7 +163,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-3 mt-6 text-xs">
           <p>
-            © 2025 Àṣà Kitchen Ltd. All rights reserved. |{" "}
+            © 2025 The Marina African Restaurant Ltd. All rights reserved. |{" "}
             <a href="#" className="text-[#D4A843] hover:underline">Privacy Policy</a>{" "}
             |{" "}
             <a href="#" className="text-[#D4A843] hover:underline">Terms of Service</a>
