@@ -177,21 +177,22 @@ export default function ContactSection() {
               <p className="text-xs font-semibold tracking-[0.25em] uppercase text-[#D4A843] mb-1">Find Us</p>
               <p className="text-sm sm:text-base font-bold">144 Alfreton Road, Nottingham, NG7 3NS</p>
             </div>
-            <a
-              href="https://maps.google.com/?q=Peckham+Market+Street+London+SE15"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="bg-[#D4A843] text-[#1A1A1A] px-4 sm:px-5 py-2.5 rounded-full text-sm font-bold hover:bg-[#C49530] transition-colors whitespace-nowrap"
-            >
-              Open in Google Maps →
-            </a>
-          </div>
-          <iframe
-            title="The Marina African Restaurant location on Google Maps"
-            src="https://maps.google.com/maps?q=Peckham+London+SE15&output=embed&z=15"
-            className="w-full h-72 sm:h-96 border-none"
-            loading="lazy"
-          ></iframe>
+           <a
+  href="https://maps.google.com/?q=144+Alfreton+Road+Nottingham+NG7+3NS"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-[#D4A843] text-[#1A1A1A] px-4 sm:px-5 py-2.5 rounded-full text-sm font-bold hover:bg-[#C49530] transition-colors whitespace-nowrap"
+>
+  Open in Google Maps →
+</a>
+</div>
+
+<iframe
+  title="The Marina African Restaurant location on Google Maps"
+  src="https://maps.google.com/maps?q=144+Alfreton+Road+Nottingham+NG7+3NS&output=embed&z=15"
+  className="w-full h-72 sm:h-96 border-none"
+  loading="lazy"
+></iframe>
         </div>
       </div>
     </section>
