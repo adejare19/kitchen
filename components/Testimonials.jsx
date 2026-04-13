@@ -2,7 +2,7 @@ export default function Testimonials() {
   const testimonials = [
     {
       stars: 5,
-      text: "I've travelled across West Africa, and I can honestly say the Egusi Soup here rivals anything I've had in Lagos. The depth of flavour is extraordinary. Àṣà Kitchen is a cultural treasure in London.",
+      text: "I've travelled across West Africa, and I can honestly say the Egusi Soup here rivals anything I've had in Lagos. The depth of flavour is extraordinary. The Marina African Restaurant is a cultural treasure in London.",
       name: "Amara J.",
       location: "London, UK · Google Review",
       avatar:
@@ -18,7 +18,7 @@ export default function Testimonials() {
     },
     {
       stars: 5,
-      text: "As someone who grew up eating Nigerian food, finding Àṣà Kitchen felt like coming home. The Jollof Rice is cooked the right way — smoky bottom pot and all! Customer service is exceptional too.",
+      text: "As someone who grew up eating Nigerian food, finding The Marina African Restaurant felt like coming home. The Jollof Rice is cooked the right way — smoky bottom pot and all! Customer service is exceptional too.",
       name: "Ngozi A.",
       location: "Peckham, London · Instagram",
       avatar:
