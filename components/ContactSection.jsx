@@ -58,8 +58,8 @@ export default function ContactSection() {
           {/* Contact Info */}
           <div>
             {[
-              { icon: <MapPin size={20} />, title: "Address", content: <p className="text-sm text-[#4A4A4A] leading-relaxed">42 Market Street, Peckham<br />London, SE15 4QH</p> },
-              { icon: <Phone size={20} />, title: "Phone", content: <><a href="tel:+447000000000" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">+44 7000 000 000</a><p className="text-xs text-[#4A4A4A] mt-1">Tap to call directly</p></> },
+              { icon: <MapPin size={20} />, title: "Address", content: <p className="text-sm text-[#4A4A4A] leading-relaxed">144 Alfreton Road, Nottingham, NG7 3NS</p> },
+              { icon: <Phone size={20} />, title: "Phone", content: <><a href="tel:+447000000000" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">+44 115 841 3283</a><p className="text-xs text-[#4A4A4A] mt-1">Tap to call directly</p></> },
               { icon: <Mail size={20} />, title: "Email", content: <a href="mailto:hello@asakitchen.co.uk" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">hello@asakitchen.co.uk</a> },
             ].map(({ icon, title, content }) => (
               <div key={title} className="flex items-start gap-4 mb-6">
@@ -89,7 +89,7 @@ export default function ContactSection() {
                 <Phone size={18} /> Call Now
               </a>
               <a
-                href="https://wa.me/447000000000?text=Hi%20Àṣà%20Kitchen!%20I'd%20like%20to%20make%20a%20reservation."
+                href="https://wa.me/441158413283?text=Hi%20Àṣà%20Kitchen!%20I'd%20like%20to%20make%20a%20reservation."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-[#2D4A35] text-white px-6 py-3 rounded-full font-semibold hover:bg-[#3D6147] transition-colors"
@@ -175,7 +175,7 @@ export default function ContactSection() {
           <div className="bg-[#2D4A35] text-white px-5 sm:px-6 py-4 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3">
             <div>
               <p className="text-xs font-semibold tracking-[0.25em] uppercase text-[#D4A843] mb-1">Find Us</p>
-              <p className="text-sm sm:text-base font-bold">42 Market Street, Peckham, London SE15 4QH</p>
+              <p className="text-sm sm:text-base font-bold">144 Alfreton Road, Nottingham, NG7 3NS</p>
             </div>
             <a
               href="https://maps.google.com/?q=Peckham+Market+Street+London+SE15"
@@ -187,7 +187,7 @@ export default function ContactSection() {
             </a>
           </div>
           <iframe
-            title="Àṣà Kitchen location on Google Maps"
+            title="The Marina African Restaurant location on Google Maps"
             src="https://maps.google.com/maps?q=Peckham+London+SE15&output=embed&z=15"
             className="w-full h-72 sm:h-96 border-none"
             loading="lazy"
