@@ -60,7 +60,7 @@ export default function ContactSection() {
             {[
               { icon: <MapPin size={20} />, title: "Address", content: <p className="text-sm text-[#4A4A4A] leading-relaxed">144 Alfreton Road, Nottingham, NG7 3NS</p> },
               { icon: <Phone size={20} />, title: "Phone", content: <><a href="tel:+447000000000" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">+44 115 841 3283</a><p className="text-xs text-[#4A4A4A] mt-1">Tap to call directly</p></> },
-              { icon: <Mail size={20} />, title: "Email", content: <a href="mailto:hello@asakitchen.co.uk" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">hello@asakitchen.co.uk</a> },
+              { icon: <Mail size={20} />, title: "Email", content: <a href="mailto:hello@asakitchen.co.uk" className="text-sm text-[#4A4A4A] hover:text-[#C45C26]">hello@themarinaafricanrestaurant.co.uk</a> },
             ].map(({ icon, title, content }) => (
               <div key={title} className="flex items-start gap-4 mb-6">
                 <div className="w-11 h-11 rounded-xl bg-[#C45C26] text-white flex items-center justify-center flex-shrink-0">{icon}</div>
